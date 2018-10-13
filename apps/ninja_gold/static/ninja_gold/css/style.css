@@ -1,0 +1,21 @@
+.gold-amount{
+    border: 1px solid black;
+    padding: 5px;
+    width: 125px;
+    display: inline-block;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+ul{
+    height: 200px;
+    list-style: none;
+    overflow: scroll;
+    border: 1px solid black;
+}
+li{
+    margin: 0;
+}
